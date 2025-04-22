@@ -57,3 +57,9 @@ The pre-trained models are evaluated on [BEAR benchmark](https://github.com/Ando
 | MISAW           | 70.8     | 73.9         | 76.3              | 73.4                 | 77.8                 |
 |                 |          |              |                   |                      |                      |
 | Macro Avg.      | 63.9     | 64.2         | 65.5              | 66.8                 | 69.8                 |
+
+## Acknowledgement
+
+These models are based on results obtained from a project, JPNP20006, commissioned by the New Energy and Industrial Technology Development Organization
+(NEDO). A computational resource, AI Bridging Cloud Infrastructure (ABCI),
+provided by the National Institute of Advanced Industrial Science and Technology (AIST), was used.
